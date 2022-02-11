@@ -138,13 +138,16 @@ body{
 	}
 }
 
-@media (max-width: 576px){
+@media (max-width: 720px){
 	.congrats{
-
+	height: 1520px;
 		text-align: center;
 		margin-top: 0;
 		padding: 10px;
 
+	}
+	logo{
+		margin-top: 30px;
 	}
 	.year-text{
 		height: 72px ;
