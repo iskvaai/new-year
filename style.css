@@ -22,7 +22,7 @@ body{
 	background-color: #1A5B35;
 	/*margin: 0 ;*/
 	overflow: hidden;
-	/*width: 100%;*/
+	width: 100%;
 	line-height: 1.5;
 
 
@@ -60,7 +60,7 @@ body{
 }
 
 .box{
-	/*padding: 249px 389px 311px 389px;*/
+
 	text-align: center;
 }
 
@@ -75,12 +75,11 @@ body{
 	font-family: 'Gilroy';
 	color: #FFFFFF;
 	font-size: 18px;
-	line-height: 26px;
-	align-items: center;
-	text-align: center;
+	line-height: 22px;
 }
 .sign{
 	display: flex;
+
 	justify-content: center;
 	align-items: center;
 
@@ -89,19 +88,20 @@ body{
 .sign span{
 	font-family: 'Gilroy';
 	color: #FFFFFF;
-	font-size: 22px;
-	line-height: 23px;
+	font-size: 16px;
+	line-height: 22px;
 }
 .logo{
 	margin-top: 60px;
 }
 
 
+
 @media screen and (max-width: 768px){
 
 	.congrats{
-		font-size: 22px;
-		line-height: 22px;
+		font-size: 15px;
+		line-height: 20px;
 		text-align: center;
 		padding-left: 16px;
 		padding-right: 16px;
@@ -135,13 +135,13 @@ body{
 .left-top{
 	height: 165px;
 	width: 100px;
-	position: absolute;
 
+}
 }
 
 @media (max-width: 720px){
 	.congrats{
-		height: 1560px;
+		height: 1520px;
 		text-align: center;
 		margin-top: 0;
 		padding: 10px;
