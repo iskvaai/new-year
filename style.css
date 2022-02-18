@@ -60,7 +60,7 @@ body{
 .box{
 
 	text-align: center;
-    width: 681px;
+	width: 595px;
     height: 454px;
 }
 
@@ -140,7 +140,7 @@ body{
 }
 }
 
-@media (max-width: 720px){
+@media (max-width: 780px){
 	.congrats{
 		height: 1520px;
 		text-align: center;
